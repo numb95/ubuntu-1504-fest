@@ -2,9 +2,6 @@
 
 @import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
 
-bg-primary{
-background-color:hsl(315, 41%, 26%)
-}
 html{
    background-image: url(http://ubuntu.ir/images/bg_dotted.png);
 }
