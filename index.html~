@@ -37,8 +37,8 @@
       <ul class="nav navbar-nav navbar-right" style="font-family:'Droid Arabic Kufi';font-size:16px;">
 
         <li></span><a href="#"><span class="fa fa-sign-in "><span style="font-family:'Droid Arabic Kufi';"> ثبت‌نام</span></a></li>
-        <li></span><a href="#"><span class="fa fa-map-marker "><span style="font-family:'Droid Arabic Kufi';"> آدرس</span></a></li>
-        <li></span><a href="#"><span class="fa fa-laptop "><span style="font-family:'Droid Arabic Kufi';"> کارگاه‌ها</span></a></li>
+        <li></span><a href="#address"><span class="fa fa-map-marker "><span style="font-family:'Droid Arabic Kufi';"> آدرس</span></a></li>
+        <li></span><a href="#workshop"><span class="fa fa-laptop "><span style="font-family:'Droid Arabic Kufi';"> کارگاه‌ها</span></a></li>
         <li></span><a href="#about"><span class="fa fa-users "><span style="font-family:'Droid Arabic Kufi';"> درباره همایش</span></a></li>
         <li></span><a href="#"><span class="fa fa-home "><span style="font-family:'Droid Arabic Kufi';">خانه </span></a></li>
         	<li><img class="logo" src="img/logo.svg" height=54 weight=54></li>
@@ -260,7 +260,7 @@
 
 <br><br>
     <!-- Map -->
-    <section id="contact" class="map" style="background-color:#F0EDE5;">
+    <section id="address" class="map" style="background-color:#F0EDE5;">
 	<div class="col-lg-10 col-lg-offset-1 text-center">
 	 	<h2>محل برگزاری همایش</h2>
  		<hr class="small"> 
