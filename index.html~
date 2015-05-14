@@ -74,8 +74,8 @@
   -webkit-margin-start: 0px;
   -webkit-margin-end: 0px;
   padding-right: 10px;
-  margin-right: 100px;
-  margin-left: 100px;
+  margin-right:50px;
+  margin-left: 50px;
   line-height: 25px;">اوبونتو محبوب‌ترین سیستم‌عامل متن‌باز، آزاد و رایگان جهان است که بیش از ۲۰ میلیون نفر آن را به سایر نسخه‌های تجاری ترجیح می‌دهند‬.</p>
 
 </div>
@@ -88,8 +88,8 @@
   -webkit-margin-start: 0px;
   -webkit-margin-end: 0px;
   padding-right: 10px;
-  margin-right: 100px;
-  margin-left: 100px;
+  margin-right: 50px;
+  margin-left: 50px;
   line-height: 25px;">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و‬.</p>
 </div>
   <div class="col-xs-6 col-md-4"><i class="fa fa-camera fa-5x"></i>
@@ -101,8 +101,8 @@
   -webkit-margin-start: 0px;
   -webkit-margin-end: 0px;
   padding-right: 10px;
-  margin-right: 100px;
-  margin-left: 100px;
+  margin-right: 50px;
+  margin-left: 50px;
   line-height: 25px;">اوبونتو محبوب‌ترین سیستم‌عامل متن‌باز، آزاد و رایگان جهان است که بیش از ۲۰ میلیون نفر آن را به سایر نسخه‌های تجاری ترجیح می‌دهند‬.</p>
 </div>
 </div>
